@@ -1,36 +1,43 @@
-Kushal Nagaral
+KUSHAL NAGARAL
 
-Trading & Markets | Cybersecurity | Electronics
+Trading & Markets · Cybersecurity · Electronics
 
-I'm interested in financial markets, forex and cryptocurrency, cybersecurity, and building practical digital projects.
-
-About Me
-
-- 📈 Exploring forex and crypto markets
-- 🛡️ Interested in cybersecurity and cyber analysis
-- 🎓 Diploma in Electronics & Communication
-- 💻 Building practical projects with HTML, CSS and JavaScript
-- 🌱 Continuously learning and improving my skills
-
-Featured Project
-
-Trade Journal & Risk Calculator
-
-A responsive web application for trade journaling, risk/reward estimation, performance statistics, and CSV export.
-
-🔗 "Live Demo" (https://kushalnagaral7.github.io/-trade-journal-risk-calculator/) · "Source Code" (https://github.com/kushalnagaral7/-trade-journal-risk-calculator)
-
-Tech & Interests
-
-"HTML" "CSS" "JavaScript" "GitHub" "Forex" "Crypto" "Cybersecurity"
-
-Connect With Me
-
-- GitHub: "@kushalnagaral7" (https://github.com/kushalnagaral7)
-- LinkedIn: "Kushal Nagaral" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
-- Instagram: "@kushaln07" (https://www.instagram.com/kushaln07/)
-- Email: "Kn.sec7@gmail.com" (mailto:Kn.sec7@gmail.com)
+Learning by building. Focused on discipline, practical skills, and continuous growth.
 
 ---
 
-Learning by building. Focused on skills, discipline, and continuous improvement.
+ABOUT ME
+
+- 📈 Exploring forex and cryptocurrency markets
+- 🛡️ Learning about cybersecurity and cyber analysis
+- 🎓 Diploma in Electronics & Communication
+- 💻 Building practical web projects
+- 🌱 Always learning, experimenting, and improving
+
+FEATURED PROJECT
+
+📊 Trade Journal & Risk Calculator
+
+A responsive web application for trade journaling, risk/reward estimation, performance statistics, and CSV export.
+
+"🚀 Live Demo" (https://kushalnagaral7.github.io/-trade-journal-risk-calculator/) · "💻 View Source Code" (https://github.com/kushalnagaral7/-trade-journal-risk-calculator)
+
+TECH STACK & INTERESTS
+
+"HTML5" (https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
+"CSS3" (https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6)
+"JavaScript" (https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+"GitHub" (https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+Interests: Forex · Crypto · Cybersecurity · Web Projects
+
+CONNECT
+
+""GitHub" (https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)" (https://github.com/kushalnagaral7)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=0A66C2)" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
+""Instagram" (https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram&logoColor=E4405F)" (https://www.instagram.com/kushaln07/)
+""Email" (https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=EA4335)" (mailto:Kn.sec7@gmail.com)
+
+---
+
+<sub>Educational projects only. Trading involves financial risk; nothing here is financial advice.</sub>
