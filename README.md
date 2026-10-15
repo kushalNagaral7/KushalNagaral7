@@ -1,31 +1,36 @@
-Hey, I'm Kushal Nagaral 👋
+Kushal Nagaral
 
-Technology | Cybersecurity | Financial Markets
+Trading & Markets | Cybersecurity | Electronics
 
-I'm interested in building practical technology projects, learning cybersecurity, and exploring financial markets.
+I'm interested in financial markets, forex and cryptocurrency, cybersecurity, and building practical digital projects.
 
-- 🎓 Diploma in Electronics and Communication (EC)
-- 🔐 Cybersecurity and ethical hacking interests
-- 📊 Forex and cryptocurrency market research
-- 💻 Building projects and documenting what I learn
+About Me
 
-Areas of Interest
+- 📈 Exploring forex and crypto markets
+- 🛡️ Interested in cybersecurity and cyber analysis
+- 🎓 Diploma in Electronics & Communication
+- 💻 Building practical projects with HTML, CSS and JavaScript
+- 🌱 Continuously learning and improving my skills
 
-- Cybersecurity fundamentals and security awareness
-- Python and web development
-- Forex and cryptocurrency market analysis
-- Trading journals and risk-management tools
+Featured Project
 
-Featured Projects
+Trade Journal & Risk Calculator
 
-🚧 Projects are being developed and documented. Check back as I publish new work.
+A responsive web application for trade journaling, risk/reward estimation, performance statistics, and CSV export.
+
+🔗 "Live Demo" (https://kushalnagaral7.github.io/-trade-journal-risk-calculator/) · "Source Code" (https://github.com/kushalnagaral7/-trade-journal-risk-calculator)
+
+Tech & Interests
+
+"HTML" "CSS" "JavaScript" "GitHub" "Forex" "Crypto" "Cybersecurity"
 
 Connect With Me
 
-- Instagram: "@kushaln07" (https://www.instagram.com/kushaln07/)
+- GitHub: "@kushalnagaral7" (https://github.com/kushalnagaral7)
 - LinkedIn: "Kushal Nagaral" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
-- Email: "Contact me" (mailto:Kn.sec7@gmail.com)
+- Instagram: "@kushaln07" (https://www.instagram.com/kushaln07/)
+- Email: "Kn.sec7@gmail.com" (mailto:Kn.sec7@gmail.com)
 
 ---
 
-Learning continuously. Building practically. Improving every day.
+Learning by building. Focused on skills, discipline, and continuous improvement.
