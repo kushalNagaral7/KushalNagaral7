@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey, I'm Kushal Nagaral 👋
 
-<!--
-**kushalNagaral7/KushalNagaral7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology | Cybersecurity | Financial Markets
 
-Here are some ideas to get you started:
+I'm interested in building practical technology projects, learning cybersecurity, and exploring financial markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Diploma in Electronics and Communication (EC)
+- 🔐 Cybersecurity and ethical hacking interests
+- 📊 Forex and cryptocurrency market research
+- 💻 Building projects and documenting what I learn
+
+Areas of Interest
+
+- Cybersecurity fundamentals and security awareness
+- Python and web development
+- Forex and cryptocurrency market analysis
+- Trading journals and risk-management tools
+
+Featured Projects
+
+🚧 Projects are being developed and documented. Check back as I publish new work.
+
+Connect With Me
+
+- Instagram: "@kushaln07" (https://www.instagram.com/kushaln07/)
+- LinkedIn: "Kushal Nagaral" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
+- Email: "Contact me" (mailto:Kn.sec7@gmail.com)
+
+---
+
+Learning continuously. Building practically. Improving every day.
