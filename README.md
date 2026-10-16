@@ -1,79 +1,56 @@
-<!-- ================= PROFILE HEADER ================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090b,50:111827,100:09090b&text=KUSHAL%20NAGARAL&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=BUILDING%20IDEAS%20INTO%20REALITY&descSize=12&descAlignY=70&animation=fadeIn" width="100%" alt="Kushal Nagaral profile banner"/><br/><a href="https://github.com/kushalnagaral7">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/kushal-nagaral-02346a34a/">
-  <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/kushaln07/">
-  <img src="https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-<a href="mailto:Kn.sec7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a><br/><br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,100:064E3B&height=210&section=header&text=KUSHAL%20NAGARAL&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=TECHNOLOGY%20%2F%20MARKETS%20%2F%20BUILDING&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Kushal Nagaral"/><a href="https://github.com/kushalnagaral7"><img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/kushal-nagaral-02346a34a/"><img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/kushaln07/"><img src="https://img.shields.io/badge/INSTAGRAM-0B0F14?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="mailto:Kn.sec7@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
-Technology · Markets · Continuous Improvement
+<br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=550&lines=Building+ideas+into+real+projects.;Learning.+Experimenting.+Improving.;Focused+on+what%27s+next." alt="Animated introduction"/></div>---
 
-</div>---
+"01 / ABOUT"
 
-"01" — PROFILE
+I'm Kushal Nagaral — an independent learner interested in technology, financial markets, and building useful digital tools.
 
-I'm Kushal, an independent learner exploring the intersection of technology, financial markets, and web development.
-
-I enjoy turning ideas into practical digital tools, experimenting with new concepts, and improving projects through hands-on learning.
-
----
-
-"02" — AREAS OF INTEREST
+I believe in learning by doing: exploring new concepts, developing projects, and improving through experimentation.
 
 <table>
 <tr>
-<td width="50%" valign="top">01 / WEB DEVELOPMENT
+<td width="50%" valign="top">CURRENT INTERESTS
 
-Building responsive websites and browser-based tools.
-
-</td>
-<td width="50%" valign="top">02 / FINANCIAL MARKETS
-
-Exploring Forex, cryptocurrency, and trading risk management.
+- Web development
+- Forex & crypto markets
+- Trading risk management
+- Cybersecurity fundamentals
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">03 / CYBERSECURITY
+<td width="50%" valign="top">MY APPROACH
 
-Learning security fundamentals and safer digital practices.
-
-</td>
-<td width="50%" valign="top">04 / PROJECT BUILDING
-
-Testing ideas, solving problems, and refining existing work.
+- Build practical projects
+- Learn through experimentation
+- Improve existing work
+- Keep exploring new ideas
 
 </td>
 </tr>
-</table>---
+</table>"02 / FEATURED PROJECT"
 
-"03" — SELECTED PROJECT
-
-Trade Journal & Risk Calculator
-
-A web-based tool for recording trading activity and working through risk calculations.
-
-<a href="https://kushalnagaral7.github.io/-trade-journal-risk-calculator/">
-  <img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open live project"/>
-</a>
-&nbsp;
 <a href="https://github.com/kushalnagaral7/-trade-journal-risk-calculator">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-27272A?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/>
-</a>---
+<img src="https://img.shields.io/badge/PROJECT_01-TRADE_JOURNAL_%26_RISK_CALCULATOR-111827?style=for-the-badge&labelColor=064E3B" alt="Trade Journal and Risk Calculator"/>
+</a>A web-based tool for organizing trading activity and calculating risk.
 
-"04" — TOOLS & TECHNOLOGIES
+<a href="https://kushalnagaral7.github.io/-trade-journal-risk-calculator/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_PROJECT-22C55E?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Launch project"/></a>
+<a href="https://github.com/kushalnagaral7/-trade-journal-risk-calculator"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore source"/></a>
 
-<div align="left"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technology icons"/></div>Interests: Web projects · Forex · Crypto · Cybersecurity
+"03 / TECH STACK"
 
----
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" width="90%"/><br/><br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22C55E,50:3B82F6,100:8B5CF6" width="100%" alt="Decorative divider"/>LESS NOISE. MORE BUILDING.
+<img src="https://img.shields.io/badge/INTEREST-FOREX-111827?style=flat-square&labelColor=064E3B" alt="Forex"/>
+<img src="https://img.shields.io/badge/INTEREST-CRYPTO-111827?style=flat-square&labelColor=064E3B" alt="Crypto"/>
+<img src="https://img.shields.io/badge/INTEREST-CYBERSECURITY-111827?style=flat-square&labelColor=064E3B" alt="Cybersecurity"/></div>"04 / GITHUB ACTIVITY"
 
-<sub>Kushal Nagaral · Personal Developer Profile</sub>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kushalnagaral7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" width="95%" alt="GitHub statistics"/><img src="https://streak-stats.demolab.com?user=kushalnagaral7&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E&sideLabels=CBD5E1&dates=94A3B8" width="95%" alt="GitHub contribution streak"/></div>---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,60:0F172A,100:020617&height=100&section=footer" width="100%" alt="Footer"/>LESS NOISE. MORE BUILDING.
+
+<sub>KUSHAL NAGARAL · KEEP MOVING FORWARD</sub>
 
 </div>
