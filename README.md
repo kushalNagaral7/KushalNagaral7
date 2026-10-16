@@ -1,63 +1,79 @@
-<!-- HEADER --><div align="center">KUSHAL NAGARAL
+<!-- ================= PROFILE HEADER ================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090b,50:111827,100:09090b&text=KUSHAL%20NAGARAL&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=BUILDING%20IDEAS%20INTO%20REALITY&descSize=12&descAlignY=70&animation=fadeIn" width="100%" alt="Kushal Nagaral profile banner"/><br/><a href="https://github.com/kushalnagaral7">
+  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/kushal-nagaral-02346a34a/">
+  <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/kushaln07/">
+  <img src="https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="mailto:Kn.sec7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a><br/><br/>
 
-TRADING • TECHNOLOGY • WEB DEVELOPMENT
-
-Building practical tools. Exploring markets. Learning by doing.
-
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/kushalnagaral7)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
-""Instagram" (https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)" (https://www.instagram.com/kushaln07/)
-""Email" (https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)" (mailto:Kn.sec7@gmail.com)
+Technology · Markets · Continuous Improvement
 
 </div>---
 
-ABOUT
+"01" — PROFILE
 
-I'm an independent learner interested in financial markets, web development, and technology-driven projects.
+I'm Kushal, an independent learner exploring the intersection of technology, financial markets, and web development.
 
-My focus is on building useful digital tools, improving my technical skills, and turning ideas into working projects.
-
-- Markets: Forex and cryptocurrency
-- Development: Web projects and trading utilities
-- Technology: Cybersecurity fundamentals and GitHub
-- Approach: Learn, build, test, improve
+I enjoy turning ideas into practical digital tools, experimenting with new concepts, and improving projects through hands-on learning.
 
 ---
 
-FEATURED PROJECT
+"02" — AREAS OF INTEREST
+
+<table>
+<tr>
+<td width="50%" valign="top">01 / WEB DEVELOPMENT
+
+Building responsive websites and browser-based tools.
+
+</td>
+<td width="50%" valign="top">02 / FINANCIAL MARKETS
+
+Exploring Forex, cryptocurrency, and trading risk management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">03 / CYBERSECURITY
+
+Learning security fundamentals and safer digital practices.
+
+</td>
+<td width="50%" valign="top">04 / PROJECT BUILDING
+
+Testing ideas, solving problems, and refining existing work.
+
+</td>
+</tr>
+</table>---
+
+"03" — SELECTED PROJECT
 
 Trade Journal & Risk Calculator
 
-A web-based tool designed to help organize trades and calculate trading risk.
+A web-based tool for recording trading activity and working through risk calculations.
 
-"Open Live Project →" (https://kushalnagaral7.github.io/-trade-journal-risk-calculator/)
+<a href="https://kushalnagaral7.github.io/-trade-journal-risk-calculator/">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open live project"/>
+</a>
+&nbsp;
+<a href="https://github.com/kushalnagaral7/-trade-journal-risk-calculator">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-27272A?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/>
+</a>---
 
-"View Source Code" (https://github.com/kushalnagaral7/-trade-journal-risk-calculator)
+"04" — TOOLS & TECHNOLOGIES
 
----
-
-TECH & INTERESTS
-
-"HTML5" (https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
-"CSS3" (https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
-"JavaScript" (https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-"GitHub" (https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF)
-"Forex" (https://img.shields.io/badge/Forex-20232A?style=flat-square&logo=tradingview&logoColor=26A69A)
-"Crypto" (https://img.shields.io/badge/Crypto-20232A?style=flat-square&logo=bitcoin&logoColor=F7931A)
+<div align="left"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technology icons"/></div>Interests: Web projects · Forex · Crypto · Cybersecurity
 
 ---
 
-CURRENT FOCUS
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22C55E,50:3B82F6,100:8B5CF6" width="100%" alt="Decorative divider"/>LESS NOISE. MORE BUILDING.
 
-- Improving existing web projects
-- Building practical trading tools
-- Strengthening Git and GitHub workflow
-- Learning more about web security
-
----
-
-<div align="center">BUILD WITH PURPOSE. IMPROVE EVERY DAY.
-
-<sub>© Kushal Nagaral</sub>
+<sub>Kushal Nagaral · Personal Developer Profile</sub>
 
 </div>
