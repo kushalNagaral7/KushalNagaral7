@@ -37,6 +37,12 @@ Interests: Forex · Crypto · Cybersecurity · Web Projects
 <sub>Educational projects only. Trading involves financial risk; nothing here is financial advice.</sub>
 
 ---
+CONNECT
+
+""GitHub" (https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)" (https://github.com/kushalnagaral7)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=0A66C2)" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
+""Instagram" (https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram&logoColor=E4405F)" (https://www.instagram.com/kushaln07/)
+""Email" (https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=EA4335)" (mailto:Kn.sec7@gmail.com)
 
 ## 🌐 Connect With Me
 
