@@ -1,50 +1,63 @@
-Hey, I'm Kushal Nagaral 👋
+<!-- HEADER --><div align="center">KUSHAL NAGARAL
 
-Trader | Web Developer | Tech Enthusiast
+TRADING • TECHNOLOGY • WEB DEVELOPMENT
 
-I'm interested in building useful web projects, learning about financial markets, and exploring technology.
+Building practical tools. Exploring markets. Learning by doing.
 
-- 📈 Exploring Forex & Crypto markets
-- 💻 Building web projects and tools
-- 🔐 Learning about Cybersecurity
-- 🚀 Improving my skills one project at a time
+""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/kushalnagaral7)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
+""Instagram" (https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)" (https://www.instagram.com/kushaln07/)
+""Email" (https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)" (mailto:Kn.sec7@gmail.com)
+
+</div>---
+
+ABOUT
+
+I'm an independent learner interested in financial markets, web development, and technology-driven projects.
+
+My focus is on building useful digital tools, improving my technical skills, and turning ideas into working projects.
+
+- Markets: Forex and cryptocurrency
+- Development: Web projects and trading utilities
+- Technology: Cybersecurity fundamentals and GitHub
+- Approach: Learn, build, test, improve
 
 ---
 
-🛠️ Tech Stack & Interests
+FEATURED PROJECT
 
-"HTML5" (https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=E34F26)
-"CSS3" (https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=1572B6)
-"JavaScript" (https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=F7DF1E)
-"GitHub" (https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
-"Trading" (https://img.shields.io/badge/Trading-181818?style=flat-square&logo=tradingview&logoColor=26A69A)
-"Cybersecurity" (https://img.shields.io/badge/Cybersecurity-181818?style=flat-square&logo=kalilinux&logoColor=557C94)
+Trade Journal & Risk Calculator
 
-Interests: Forex · Crypto · Cybersecurity · Web Projects
+A web-based tool designed to help organize trades and calculate trading risk.
 
----
-
-🚀 Featured Project
-
-📊 Trade Journal & Risk Calculator
-
-A web tool for organizing trading activity and calculating risk.
-
-""View Project" (https://img.shields.io/badge/VIEW_PROJECT-00C853?style=for-the-badge&logo=github&logoColor=white)" (https://kushalnagaral7.github.io/-trade-journal-risk-calculator/)
+"Open Live Project →" (https://kushalnagaral7.github.io/-trade-journal-risk-calculator/)
 
 "View Source Code" (https://github.com/kushalnagaral7/-trade-journal-risk-calculator)
 
 ---
 
-🔗 Connect With Me
+TECH & INTERESTS
 
-""GitHub" (https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)" (https://github.com/kushalnagaral7)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=0A66C2)" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
-""Instagram" (https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram&logoColor=E4405F)" (https://www.instagram.com/kushaln07/)
-""Email" (https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=EA4335)" (mailto:Kn.sec7@gmail.com)
+"HTML5" (https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
+"CSS3" (https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
+"JavaScript" (https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+"GitHub" (https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF)
+"Forex" (https://img.shields.io/badge/Forex-20232A?style=flat-square&logo=tradingview&logoColor=26A69A)
+"Crypto" (https://img.shields.io/badge/Crypto-20232A?style=flat-square&logo=bitcoin&logoColor=F7931A)
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
+CURRENT FOCUS
+
+- Improving existing web projects
+- Building practical trading tools
+- Strengthening Git and GitHub workflow
+- Learning more about web security
+
+---
+
+<div align="center">BUILD WITH PURPOSE. IMPROVE EVERY DAY.
+
+<sub>© Kushal Nagaral</sub>
+
+</div>
