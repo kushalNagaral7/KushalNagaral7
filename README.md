@@ -37,9 +37,22 @@ Interests: Forex · Crypto · Cybersecurity · Web Projects
 <sub>Educational projects only. Trading involves financial risk; nothing here is financial advice.</sub>
 
 ---
-CONNECT
 
-""GitHub" (https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)" (https://github.com/kushalnagaral7)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=0A66C2)" (https://www.linkedin.com/in/kushal-nagaral-02346a34a/)
-""Instagram" (https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram&logoColor=E4405F)" (https://www.instagram.com/kushaln07/)
-""Email" (https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=EA4335)" (mailto:Kn.sec7@gmail.com)
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/kushalnagaral7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://telegram.org/">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
