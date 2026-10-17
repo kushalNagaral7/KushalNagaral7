@@ -1,97 +1,181 @@
-<!-- ================= PROFILE HEADER ================= --><div align="center">KUSHAL NAGARAL
 
-Forex & Crypto · Cybersecurity · Digital Projects
+<div align="center">
 
-<p>
-  <a href="https://kushalnagaral7.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0D1117?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/kushalnagaral7">
-    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:kn.sec7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:14213D,100:00B4D8&height=3" width="100%" alt=""/></div>👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0077FF,100:00E5FF&height=220&section=header&text=KUSHAL%20NAGARAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FINANCE%20%7C%20CRYPTO%20%7C%20CYBERSECURITY%20%7C%20TECH&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Kushal Nagaral banner"/>
 
-Hi, I'm Kushal Nagaral — a technology enthusiast interested in financial markets, cryptocurrency, cybersecurity, and building digital products.
-
-I enjoy learning how markets work, exploring emerging technologies, and turning ideas into practical projects.
-
-- 📈 Forex & Trading: Learning market analysis, trading strategies, and risk management.
-- ₿ Cryptocurrency: Exploring digital assets, blockchain technology, and crypto ecosystems.
-- 🛡️ Cybersecurity: Developing my knowledge of security concepts and responsible investigations.
-- 💻 Web Development: Building websites, dashboards, and interactive digital tools.
-- 🚀 Project Building: Experimenting with ideas and improving my technical skills through hands-on work.
-
-«Learn continuously. Build practically. Manage risk. Improve every day.»
-
-🎯 Areas of Interest
-
-<div align="center">📈 Financial Markets| ₿ Crypto & Blockchain
-Forex, market analysis, risk management| Digital assets, wallets, blockchain
-
-🛡️ Cybersecurity| 💻 Digital Products
-Security fundamentals, investigations| Web apps, dashboards, useful tools
-
-</div>🚀 Featured Work
-
-📊 Trade Journal & Risk Calculator
-
-A trading-focused project designed to help organize trades and understand risk before entering a position.
-
-- Trade journaling and record keeping
-- Risk/reward calculations
-- Performance statistics
-- CSV export and locally stored data
-
-Focus: Better trade tracking, structured analysis, and risk awareness.
-
-🌐 Personal Portfolio
-
-My personal website showcasing my profile, interests, and digital projects.
-
-Tech: HTML · CSS · JavaScript
-
-"🔗 Visit My Portfolio" (https://kushalnagaral7.github.io/)
-
-🛡️ KBan — Investigation Dashboard Concept
-
-A security-focused dashboard concept centered on organized investigations, evidence tracking, and legitimate reporting workflows.
-
-Focus: Structured case management, responsible investigations, and a professional dashboard experience.
-
-💡 More Projects
-
-I'm continuing to explore ideas across financial tools, cryptocurrency, web development, and cybersecurity.
-
-"Explore all my GitHub repositories →" (https://github.com/kushalnagaral7?tab=repositories)
-
-🧰 Technologies & Tools
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Technology icons"/></div>Currently exploring: Web development, Python, trading analytics, blockchain concepts, and cybersecurity fundamentals.
-
-The technologies shown represent areas I work with or am learning; my proficiency varies by tool.
-
-📈 GitHub Overview
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=kushalnagaral7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalnagaral7&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/></div><div align="center"><img src="https://streak-stats.demolab.com?user=kushalnagaral7&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/></div>🤝 Connect With Me
-
-<div align="center"><a href="https://www.instagram.com/kushaln07/">
-  <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://kushalnagaral7.github.io/">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/kushal-nagaral-02346a34a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+  <img src="https://img.shields.io/badge/💻_PROJECTS-7C3AED?style=for-the-badge" alt="Projects"/>
 </a>
 <a href="mailto:kn.sec7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/✉_CONTACT-FF4B6E?style=for-the-badge" alt="Contact"/>
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Forex+%26+Crypto+Enthusiast;Cybersecurity+Learner;Digital+Project+Builder;Learning.+Building.+Improving." alt="Animated introduction"/>
+
+</div>
+
+---
+
+## 🧬 &nbsp; ABOUT ME
+
+I'm **Kushal Nagaral** — exploring the intersection of financial markets, emerging technology, and digital product development.
+
+📈 &nbsp; **Forex & Markets** — market analysis, trading concepts and risk management  
+₿ &nbsp; **Crypto & Blockchain** — digital assets, wallets and blockchain ecosystems  
+🛡️ &nbsp; **Cybersecurity** — security fundamentals and responsible investigations  
+💻 &nbsp; **Development** — websites, dashboards and practical digital tools  
+
+I believe in learning through hands-on projects, understanding risk, and continuously improving my skills.
+
+---
+
+## ⚡ &nbsp; MY INTERESTS
+
+<div align="center">
+
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+<img src="https://img.shields.io/badge/📈_FOREX-0B8F65?style=for-the-badge" alt="Forex"/>
+</a>
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+<img src="https://img.shields.io/badge/₿_CRYPTO-F7931A?style=for-the-badge" alt="Crypto"/>
+</a>
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+<img src="https://img.shields.io/badge/🛡️_CYBERSECURITY-7C3AED?style=for-the-badge" alt="Cybersecurity"/>
+</a>
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+<img src="https://img.shields.io/badge/💻_WEB_DEV-0077FF?style=for-the-badge" alt="Web development"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 &nbsp; FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📊 Trade Journal & Risk Calculator</h3>
+
+A trading utility for organizing forex and crypto trades and evaluating risk.
+
+- Trade journal
+- Risk/reward calculations
+- Performance statistics
+- CSV export
+
+<a href="https://github.com/kushalnagaral7/-trade-journal-risk-calculator">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="View trading project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌐 Personal Portfolio</h3>
+
+My professional website for showcasing my work, interests and digital projects.
+
+- Responsive website
+- Professional design
+- Social links
+- GitHub Pages hosting
+
+<a href="https://kushalnagaral7.github.io/">
+<img src="https://img.shields.io/badge/OPEN_WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛡️ KBan</h3>
+
+A security dashboard concept focused on authorized investigations and structured evidence management.
+
+- Investigation workflows
+- Organized case information
+- Responsible reporting concepts
+
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOS-FF4B6E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔬 More Experiments</h3>
+
+Exploring practical ideas across financial tools, cryptocurrency, cybersecurity and web applications.
+
+<a href="https://github.com/kushalnagaral7?tab=repositories">
+<img src="https://img.shields.io/badge/ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 &nbsp; TECHNOLOGY TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Technology icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Financial_Markets-Learning-16A34A?style=flat-square" alt="Financial markets"/>
+<img src="https://img.shields.io/badge/Crypto_&_Blockchain-Exploring-F7931A?style=flat-square" alt="Crypto"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-8B5CF6?style=flat-square" alt="Cybersecurity"/>
+
+</div>
+
+---
+
+## 📊 &nbsp; GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushalnagaral7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalnagaral7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=kushalnagaral7&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4B6E&currStreakLabel=00D9FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌐 &nbsp; CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.instagram.com/kushaln07/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/kushal-nagaral-02346a34a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:kn.sec7@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://kushalnagaral7.github.io/">
-  <img src="https://img.shields.io/badge/Website-My_Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a></div>---
+<img src="https://img.shields.io/badge/PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-<div align="center">Curiosity → Learning → Building → Improving
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0D1117&height=3" width="100%" alt=""/><sub>Thanks for visiting my profile. Feel free to explore my projects and connect!</sub>
+**💠 Learn the markets. Understand the technology. Build with purpose.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0077FF,100:090979&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
